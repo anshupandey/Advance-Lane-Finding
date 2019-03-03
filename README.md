@@ -172,3 +172,4 @@ Two global variables are created to retain the previous value of left and right 
 2. How to take the 30m range for source point was a BIG deal and still I have doubts on it
 3. Calcultion of final radius of curvature from left and right is what I thought of taking average based on intution but got it confirmed by reading some questions.
 
+<img src='output_images/output_gif.gif'>
